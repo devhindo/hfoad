@@ -1,5 +1,3 @@
-// configure your default shell is by creating a terminal profile in `#terminal.integrated.profiles.windows#` and setting its profile name as the default in `#terminal.integrated.defaultProfile.windows#`.
-
 {
     "terminal.integrated.profiles.windows": {
         "PowerShell": {
